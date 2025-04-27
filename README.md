@@ -1,6 +1,6 @@
 # Secure Multi-Party Computation
 
-This repository contains the project artifacts for the "Secure Multi-Party Computation" project, submitted as part of the [Your Degree Program] at [Your Institution].
+This repository contains the project artifacts for the "Secure Multi-Party Computation" project, submitted as part of the Bachelor's of Engineering(IS) at Chandigarh University.
 
 ## Contents
 
